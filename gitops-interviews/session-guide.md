@@ -7,4 +7,4 @@ How are you doing?
 1. What are your workflows connected to GitOps?
 
 ## Closing
-Thanks a lot!
+Thanks a lot! And have a nice day!
